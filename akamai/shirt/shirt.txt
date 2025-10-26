@@ -1,0 +1,47 @@
+\033[001m\033[038;002;085;085;085m\033[048;002;244;241;234m                                                                                   
+                                                                                   
+                                                                                   
+                                   \033[038;002;040;145;200mPEACE FOR ALL\033[038;002;085;085;085m                                   
+                                       \033[038;002;234;136;039mAkamai\033[038;002;085;085;085m                                      
+                                                                                   
+                                                                                   
+                                                                                   
+        \033[048;002;234;136;039m#!/bin/bash\033[048;002;244;241;234m  eval  "$(base64 -d <<< 'IyEvYmluL2Jhc2gKCiMgQ29uZ3Jhd         
+        HVsYXRpb25zISBZb3UgZm91bmQgdGhlIGVhc3RlciBlZ2chIOKdpO+4jwojIOOBiuO         
+        CgeOBp+OBqOOBhuOBlOOBluOBhOOBvuOBme+8gemaoOOBleOCjOOBn+OCteODl+OD          
+        qeOCpOOCuuOCkuimi+OBpOOBkeOBvuOBl+OBn++8geKdpO+4jwoKIyBEZWZpbmUgd          
+        GhlIHRleHQgdG8gYW5pbWF0ZQp0ZXh0\033[048;002;234;136;039mP\033[048;002;244;241;234mSLimaVQRUFDReKZpUZPUuKZpUFMTOKZpV          
+        BFQUNF4pmlRk9S4pmlQUxM4pmlUEVBQ0XimaVGT1LimaVBTEzimaVQRUFDReKZpUZ          
+        PUuKZpUFMTOKZpVBFQUNF4pmlRk9S4pmlQUxM4pmlIgoKIyBHZXQgdGVybWluYWwg          
+        ZGltZW5zaW9ucwpjb2xzPSQodHB1dCBjb2xzKQpsaW5lcz0kKHRwdXQgbGluZXMpC          
+        gojI\033[048;002;234;136;039mE\033[048;002;244;241;234mNhbGN1bGF0ZSB0aGUgbGVuZ3RoIG9mIHRoZSB0ZXh0CnRleHRfbGVuZ3RoPS          
+        R7I3RleHR9CgojIEhpZGUgdGhlIGN1cnNvcgp0cHV0IGNpdmlzCgojIFRyYX\033[048;002;234;136;039mA\033[048;002;244;241;234mgQ1RS         
+        TCtDIHRvIHNob3cgdGhlIGN1cnNvciBiZWZvcmUgZXhpdGluZwp0cmFwICJ0cHV0I          
+        GNub3JtOyBleGl0IiBTSUdJTlQK\033[048;002;234;136;039mC\033[048;002;244;241;234miMgU2V0IGZyZXF1ZW5jeSBzY2FsaW5nIGZhY3R         
+        vcgpmcmVxPTAuMgoKIyBJbmZpbml0ZSBsb29wIGZvciBjb250aW51b3VzIGFuaW1hd         
+        Glvbgpmb3IgKCggdD0wOyA7IHQrPTEgKSk7IGRvCiAgICAjI\033[048;002;234;136;039mE\033[048;002;244;241;234mV4dHJhY3Qgb25lIGN         
+        oYXJhY3RlciBhdCBhIHRpbWUKICAgIGNoYXI9IiR7dGV4dDp0ICUgdGV4dF9sZW5nd         
+        Gg6MX0iCiAgICAKICAgICMgQ2\033[048;002;234;136;039mF\033[048;002;244;241;234msY3VsYXRlIHRoZSBhbmdsZSBpbiByYWRpYW5zCiA         
+        gICBhbmdsZT0kKGVjaG8gIigkdCkgKiAkZnJlcSIgfCBiYyAtbCkKCiAgICAjIENhb         
+        GN1bGF0ZSB0aGUgc2luZSBvZiB0aGUgYW5nbGUKICAgIHNpbmVfdmFsdWU9JChlY2          
+        hvICJzKCRhbmdsZSkiIHwgYmMgLWwpCgogICAgIyBDYWxjdWxhdGUgeCBwb3NpdGl          
+        vbiB1c2luZyB\033[048;002;234;136;039m0\033[048;002;244;241;234maGUgc2luZSB2YWx1ZQogICAgeD0kKGVjaG8gIigkY29scyAvIDIpIC        
+        sgKCRjb2xzIC8gNCkgKiAkc2luZV92YWx1ZSIgfCBiYyAtbCkKICAgIHg9JChwcmlu         
+        dGYgIiUuMGYiICIkeCIpCgogICAgIyBFbnN1cmUgeCBpcyB3aX\033[048;002;234;136;039mR\033[048;002;244;241;234moaW4gdGVybWluY          
+        WwgYm91bmRzCiAgICBpZiAoKCB4IDwgMCApKTsgdGhlbiB4PTA7IGZpCiAgICBpZi          
+        AoKCB4ID49IGNvbHMgKSk7IHRoZW4geD0kKChjb2xzIC0gMSkpOyBmaQoKICAgICM          
+        gQ2FsY3VsYXRlIGNvbG9yIGdyYWRpZW50IGJldHdlZW4gMTIgKGN5YW4pIGFuZCAyM         
+        DggKG9yYW5nZSkKIC\033[048;002;234;136;039mA\033[048;002;244;241;234mgIGNvbG9yX3N0YXJ0PTEyCiAgICBjb2xvcl9lbmQ9MjA4CiA         
+        gICBjb2xvcl9yYW5nZT0kKChjb2xvcl9lbmQgLSBjb2xvcl9zdGFydCkpCiAgICBjb         
+        2xvcj0kKChjb2xvcl9zdGFydCArIChjb2xvcl9yYW5nZSAqIHQg\033[048;002;234;136;039mL\033[048;002;244;241;234myBsaW5lcykgJSBj        
+        b2xvcl9yYW5nZSkpCgogICAgIyBQcmludCB0aGUgY2hhcmFjdGVyIHdpdGggMjU2L          
+        WNvbG9yIHN1cHBvcnQKICAgIGVjaG8g\033[048;002;234;136;039mL\033[048;002;244;241;234mW5lICJcMDMzWzM4OzU7JHtjb2xvcn1tIiQ         
+        odHB1dCBjdXAgJHQgJHgpIiRjaGFyXDAzM1swbSIKCiAgICAjIExpbmUgZmVlZCB0b         
+        yBtb3ZlIGRvd253YXJkCiAgICBlY2hvICIiCgpkb25lCgo= ')"     \033[048;002;234;136;039mPEACEFORALL\033[048;002;244;241;234m        
+                                                                                   
+                                                                                   
+                                                                                   
+                                        \033[038;002;234;136;039m{🩶};\033[038;002;085;085;085m                                      
+                                                                                   
+                                                                                   
+                                                                                   \033[000m

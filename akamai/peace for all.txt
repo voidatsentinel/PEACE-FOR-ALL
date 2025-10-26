@@ -1,0 +1,13 @@
+\033[001m\033[048;002;244;241;234m\033[038;002;085;085;085m
+                                                                                   
+        https://www.uniqlo.com/us/en/special-feature/peace-for-all                 
+                                                                                   
+More than 25 years ago, Akamai helped make the internet we know today possible.    
+This shirt’s design is a callback to those early days of life online. The light tan
+color is a reference to the “beige box” plastic casings that housed the early      
+internet computers, and the heart on the front represents how the internet has been
+used for good all over the world. On the back of the T-shirt is real code. It’s a  
+reference to Linux, the open source language of the internet. This common language 
+unites Akamai with the world’s top brands and the people they serve, as we work    
+together toward a vision of a safer and more connected world.                      
+                                                                                   \033[000m
