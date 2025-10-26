@@ -37,6 +37,9 @@ together toward a vision of a safer and more connected world.
 | [akamai/payload/decode.sh](akamai/payload/decode.sh)         | Decode shirt payload                             |
 | [akamai/payload/easter_egg.sh](akamai/payload/easter_egg.sh) | Run the shirt payload                            |
 
+## Shirt
+
+![Shirt](akamai/shirt/shirt.avif)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
